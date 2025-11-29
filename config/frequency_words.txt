@@ -1,55 +1,25 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
 
 华为
+huawei
 鸿蒙
 HarmonyOS
 任正非
 
-比亚迪
-王传福
-
-大疆
-DJI
-
 宇树
+unitree
 王兴兴
-
 智元
 灵犀
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
 字节
 bytedance
-张一鸣
 
 特斯拉
+Tesla
 马斯克
 
 微软
@@ -69,6 +39,9 @@ deepmind
 chatgpt
 openai
 sora
+Claude
+Anthropic
+grok
 
 claude
 Anthropic
@@ -83,31 +56,95 @@ ai
 人工智能
 
 自动驾驶
+Autonomous driving
 
 机器人
+robot
 
 国产
 中国
+china
 
 美国
+usa
+america
 日本
+japan
 韩国
+korea
+川普
+特朗普
+trump
 
 芯片
 光刻机
-
-科技
+内存
+RAM
+CPU
+GPU
+NPU
+TPU
 
 核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
+核聚变
 
 月球
 登月
+moon
 火星
 宇宙
 飞船
 航空
+Moon
+Moon landing
+Mars
+Universe
+Spacecraft
+Aviation
+
+央行
+人民银行
+central bank
+美联储
+Federal Reserve
+货币政策
+Monetary Policy
+利率
+interest rate
+lpr
+
+银行
+bank
+农业银行
+
+河南
+信阳
+淮滨
+广州
+上海
+北京
+深圳
+
+贸易战
+Trade War
+关税
+Tariff
+
+比特币
+虚拟货币
+稳定币
+Bitcoin
+Virtual Currency
+Stablecoin
+
+房地产
+住房贷款
+房贷
+按揭
+二手房
+一手房
+公租房
+Real Estate
+Housing Loans
+Mortgages
+Mortgage Loans
